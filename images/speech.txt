@@ -1,0 +1,43 @@
+Assalamualaikum everyone.I'm Mehjabin Johra from group A4.The name of our project is CV Bachai : 
+A Web Based Resume Recommendation System .My other group Members are Md Al Moktadir Chowdhury,
+Mohammad Farhan,Mostahid Ahmed, A. M. Kabbo Hossain and Hebron Hossain Hamim
+Our honourable supervisor is Suman Ahmmed and Dr. Dewan Md  farid is our respected course teacher.
+Moving forward to the Outline.First we
+are going to Introduce our project.Then we will be doing the literature review of
+related project.After that we are going to talk about the design,Environment setup, project
+management and standards we followed.
+
+In the introduction part I am going to talk about Problem Statement,Objective,Motivation and
+Project Overview
+Now I am going to address the poblem statements.Now a days
+the proportion of Job to applicant is very high and as a result there are too much
+applicant against a job.From this thousands of CV's it takes too much time to
+shortlist CV's.So the institutions can't focus on all the resumes and as a result all
+the resumes don't get fair treatment.
+
+The objective of our project is to develop such a web based recruitemt support system that helps 
+both recruiters and applicants. The main objective is to rank every applicants of a job based
+on their skills, education and experience.
+
+Manual screening of resumes takes too much time and it is more stressfull. Besides lots of 
+irrelevent resumes makes it complex to select the perfect candidate whereas automated process 
+can save both time and energy and it's more easier. These helps us to motivate to develop
+such a system.
+
+In our developed system, the job seekers can apply for a job.While applying for the job applicants
+ need to input some information on our predefined templates and based on those information we will rank the CV's.
+We will match the ans with the job requirements and shortlist some candidates 
+from thousand of applicants synchronus with specified requirements.And finally we will use smtp 
+to let them know that they are selected, through Email in an automatic way.
+This graphial figure shows us the scoring steps of our developed system
+
+Now I would Like to request Hebron Hossain Hamim To continue further
+
+
+
+
+
+
+
+
+
